@@ -23,4 +23,4 @@ Screenshots:
 
 ## Link to Demo Video with audible narration explaining styling changes with code reference
 
-Demo Video Link: [Watch the demo video](https://myrp-my.sharepoint.com/:v:/g/personal/25036723_myrp_edu_sg/IQBedQVKF9HsQb-WSjlNXuvgAWczI2SvLnse3CjmAsVjzvQ?e=8T0zHt)
+Demo Video Link: [Watch the demo video](https://myrp-my.sharepoint.com/:v:/g/personal/25036723_myrp_edu_sg/IQBedQVKF9HsQb-WSjlNXuvgAWczI2SvLnse3CjmAsVjzvQ?e=Drxyqc)
